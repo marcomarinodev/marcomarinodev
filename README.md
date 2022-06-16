@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📲 I’m currently working as Mobile Analyst @Deloitte
+- 📲 I’m currently working as a Mobile Analyst @Deloitte
 - 🔭 I’m learning Microservices & Kubernetes and Serverless Integration (EIP) for final thesis
 - 👥 I’m looking to collaborate on both frontend & backend projects
 
