@@ -1,5 +1,7 @@
 ### Hi there 👋, here's a summary of what I'm doing
 
+I'm into backend and cloud engineering
+
 - 📲 Currently working as a Junior Software Engineer @Deloitte
 - 🔭 Studying how to detect and solve architectural smells of a microservices-based architecture given its k8s manifests
 - 👥 I'm open to collaborate to any kind of projects
