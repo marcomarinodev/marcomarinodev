@@ -1,7 +1,8 @@
 ### Hi there 👋, here's a summary of what I'm doing
 
-I'm into backend and cloud engineering
+I'm into backend and cloud engineering and a Golang enthusiast
 
+- 🎤 Tech speaker: Conf42 Golang 2024, ...
 - 💻 Currently working as a Software Engineer @iongroup
 - ⎈  Mastering Kubernetes, Golang and AI
 - 🔭 Exploring the Cloud Engineering world
